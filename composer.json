@@ -1,0 +1,19 @@
+{
+  "name": "shencongcong/demo3",
+  "description": "this is a demo3",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "shencongcong",
+      "email": "1343948033@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Shencongcong\\Demo3\\": "src"
+    }
+  }
+}
